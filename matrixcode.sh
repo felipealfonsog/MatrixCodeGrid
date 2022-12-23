@@ -1,6 +1,6 @@
 #!/bin/bash
 
-#modified from https://gist.github.com/dhaiducek by Felipe Gonzalez f.alfonso@res-ear.ch
+#modified from https://gist.github.com/dhaiducek by Felipe Alfonso Gonzalez f.alfonso@res-ear.ch
 #----
 #Next alterations:
 #Random numbers per files
